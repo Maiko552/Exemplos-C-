@@ -1,0 +1,8 @@
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Testr\obj\Debug\Testr.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Testr\obj\Debug\Testr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Testr\obj\Debug\Testr.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Testr\bin\Debug\Testr.exe.config
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Testr\bin\Debug\Testr.exe
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Testr\bin\Debug\Testr.pdb
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Testr\obj\Debug\Testr.exe
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Testr\obj\Debug\Testr.pdb

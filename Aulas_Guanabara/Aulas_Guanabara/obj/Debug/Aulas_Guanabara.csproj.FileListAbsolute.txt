@@ -1,0 +1,8 @@
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Aulas_Guanabara\obj\Debug\Aulas_Guanabara.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Aulas_Guanabara\obj\Debug\Aulas_Guanabara.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Aulas_Guanabara\obj\Debug\Aulas_Guanabara.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Aulas_Guanabara\bin\Debug\Aulas_Guanabara.exe.config
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Aulas_Guanabara\bin\Debug\Aulas_Guanabara.exe
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Aulas_Guanabara\bin\Debug\Aulas_Guanabara.pdb
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Aulas_Guanabara\obj\Debug\Aulas_Guanabara.exe
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\Aulas_Guanabara\obj\Debug\Aulas_Guanabara.pdb

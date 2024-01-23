@@ -1,0 +1,8 @@
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\VariaveisdeTextos\bin\Debug\VariaveisdeTextos.exe.config
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\VariaveisdeTextos\bin\Debug\VariaveisdeTextos.exe
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\VariaveisdeTextos\bin\Debug\VariaveisdeTextos.pdb
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\VariaveisdeTextos\obj\Debug\VariaveisdeTextos.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\VariaveisdeTextos\obj\Debug\VariaveisdeTextos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\VariaveisdeTextos\obj\Debug\VariaveisdeTextos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\VariaveisdeTextos\obj\Debug\VariaveisdeTextos.exe
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\Aulas_Guanabara\VariaveisdeTextos\obj\Debug\VariaveisdeTextos.pdb
