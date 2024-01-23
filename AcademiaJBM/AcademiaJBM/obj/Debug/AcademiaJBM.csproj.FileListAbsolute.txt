@@ -1,0 +1,44 @@
+C:\Users\37919058805\source\repos\AcademiaJBM\AcademiaJBM\bin\Debug\AcademiaJBM.exe.config
+C:\Users\37919058805\source\repos\AcademiaJBM\AcademiaJBM\bin\Debug\AcademiaJBM.exe
+C:\Users\37919058805\source\repos\AcademiaJBM\AcademiaJBM\bin\Debug\AcademiaJBM.pdb
+C:\Users\37919058805\source\repos\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.csproj.AssemblyReference.cache
+C:\Users\37919058805\source\repos\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.MenuPrincipal.resources
+C:\Users\37919058805\source\repos\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.Properties.Resources.resources
+C:\Users\37919058805\source\repos\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.csproj.GenerateResource.cache
+C:\Users\37919058805\source\repos\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.csproj.CoreCompileInputs.cache
+C:\Users\37919058805\source\repos\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.exe
+C:\Users\37919058805\source\repos\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.pdb
+C:\Users\37919058805\source\repos\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.Cliente.resources
+C:\Users\37919058805\source\repos\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.Treino.resources
+C:\Users\37919058805\source\repos\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.Suplemento.resources
+C:\Users\37919058805\source\repos\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.Login.resources
+C:\Users\Pichau\Downloads\AcademiaJBM\AcademiaJBM\bin\Debug\AcademiaJBM.exe.config
+C:\Users\Pichau\Downloads\AcademiaJBM\AcademiaJBM\bin\Debug\AcademiaJBM.exe
+C:\Users\Pichau\Downloads\AcademiaJBM\AcademiaJBM\bin\Debug\AcademiaJBM.pdb
+C:\Users\Pichau\Downloads\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.csproj.AssemblyReference.cache
+C:\Users\Pichau\Downloads\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Downloads\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.Cliente.resources
+C:\Users\Pichau\Downloads\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.Login.resources
+C:\Users\Pichau\Downloads\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.MenuPrincipal.resources
+C:\Users\Pichau\Downloads\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.Properties.Resources.resources
+C:\Users\Pichau\Downloads\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.Suplemento.resources
+C:\Users\Pichau\Downloads\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.Treino.resources
+C:\Users\Pichau\Downloads\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.csproj.GenerateResource.cache
+C:\Users\Pichau\Downloads\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.exe
+C:\Users\Pichau\Downloads\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.pdb
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\AcademiaJBM\AcademiaJBM\bin\Debug\AcademiaJBM.exe.config
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\AcademiaJBM\AcademiaJBM\bin\Debug\AcademiaJBM.exe
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\AcademiaJBM\AcademiaJBM\bin\Debug\AcademiaJBM.pdb
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.Cliente.resources
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.Login.resources
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.MenuPrincipal.resources
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.Properties.Resources.resources
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.Suplemento.resources
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.Treino.resources
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.csproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.exe
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\AcademiaJBM\AcademiaJBM\obj\Debug\AcademiaJBM.pdb
