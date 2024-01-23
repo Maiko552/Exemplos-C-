@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\CardapioDia10\CardapioDia10\bin\Debug\CardapioDia10.exe.config
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\CardapioDia10\CardapioDia10\bin\Debug\CardapioDia10.exe
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\CardapioDia10\CardapioDia10\bin\Debug\CardapioDia10.pdb
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\CardapioDia10\CardapioDia10\obj\Debug\CardapioDia10.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\CardapioDia10\CardapioDia10\obj\Debug\CardapioDia10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\CardapioDia10\CardapioDia10\obj\Debug\CardapioDia10.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\CardapioDia10\CardapioDia10\obj\Debug\CardapioDia10.exe
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\CardapioDia10\CardapioDia10\obj\Debug\CardapioDia10.pdb
+E:\Exemplos C# Aulas\CardapioDia10\CardapioDia10\bin\Debug\CardapioDia10.exe.config
+E:\Exemplos C# Aulas\CardapioDia10\CardapioDia10\bin\Debug\CardapioDia10.exe
+E:\Exemplos C# Aulas\CardapioDia10\CardapioDia10\bin\Debug\CardapioDia10.pdb
+E:\Exemplos C# Aulas\CardapioDia10\CardapioDia10\obj\Debug\CardapioDia10.csproj.AssemblyReference.cache
+E:\Exemplos C# Aulas\CardapioDia10\CardapioDia10\obj\Debug\CardapioDia10.csproj.SuggestedBindingRedirects.cache
+E:\Exemplos C# Aulas\CardapioDia10\CardapioDia10\obj\Debug\CardapioDia10.csproj.CoreCompileInputs.cache
+E:\Exemplos C# Aulas\CardapioDia10\CardapioDia10\obj\Debug\CardapioDia10.exe
+E:\Exemplos C# Aulas\CardapioDia10\CardapioDia10\obj\Debug\CardapioDia10.pdb
