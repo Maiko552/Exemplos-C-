@@ -1,0 +1,8 @@
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\testaandoSwitch\obj\Debug\testaandoSwitch.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\testaandoSwitch\obj\Debug\testaandoSwitch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\testaandoSwitch\obj\Debug\testaandoSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\testaandoSwitch\bin\Debug\testaandoSwitch.exe.config
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\testaandoSwitch\bin\Debug\testaandoSwitch.exe
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\testaandoSwitch\bin\Debug\testaandoSwitch.pdb
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\testaandoSwitch\obj\Debug\testaandoSwitch.exe
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\testaandoSwitch\obj\Debug\testaandoSwitch.pdb

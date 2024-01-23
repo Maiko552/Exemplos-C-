@@ -1,0 +1,8 @@
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\JogoFutebol\bin\Debug\JogoFutebol.exe.config
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\JogoFutebol\bin\Debug\JogoFutebol.exe
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\JogoFutebol\bin\Debug\JogoFutebol.pdb
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\JogoFutebol\obj\Debug\JogoFutebol.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\JogoFutebol\obj\Debug\JogoFutebol.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\JogoFutebol\obj\Debug\JogoFutebol.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\JogoFutebol\obj\Debug\JogoFutebol.exe
+C:\Users\Pichau\Desktop\Exemplos C# Aulas\testaandoSwitch\JogoFutebol\obj\Debug\JogoFutebol.pdb
